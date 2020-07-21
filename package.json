@@ -1,0 +1,33 @@
+{
+  "name": "css-loader-nano",
+  "version": "1.0.0",
+  "description": "Minimize CSS output of css-loader using cssnano.",
+  "main": "./css-loader-nano.js",
+  "homepage": "https://github.com/joehehir/css-loader-nano",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joehehir/css-loader-nano.git"
+  },
+  "author": {
+    "name": "Joe Hehir",
+    "email": "hello@joehehir.com",
+    "url": "https://joehehir.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^4.36.0 || ^5.0.0",
+    "css-loader": "^3.2.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "keywords": [
+    "css",
+    "loader",
+    "minify",
+    "minimize",
+    "nano",
+    "style",
+    "webpack"
+  ]
+}
